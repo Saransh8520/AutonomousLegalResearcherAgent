@@ -30,6 +30,16 @@ Built using Python, CrewAI, Selenium, and ChromaDB, this system simulates a coll
 
 📚 Statute & Precedent Extraction
 
+🛠️ Tech Stack
+
+Backend: Python
+Frontend: HTML, CSS, JavaScript
+AI Multi-Agent Framework: CrewAI
+Web Automation: Selenium
+Vector Database: ChromaDB
+Embeddings: OpenAI / HuggingFace
+API Framework: FastAPI / Flask
+
 📌 Citation Identification
 
 ⚖️ Structured Legal Argument Generation
