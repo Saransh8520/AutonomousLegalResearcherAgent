@@ -1,0 +1,11 @@
+streamlit
+crewai
+chromadb
+langchain
+openai
+tiktoken
+python-dotenv
+sentence-transformers
+selenium
+webdriver-manager
+google-generativeai
